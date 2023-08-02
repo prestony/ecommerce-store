@@ -111,7 +111,7 @@
 			<!--products ends here -->
 			<!--navigation for categories starts-->
 			<div class="col-md-2">
-
+				<h4>Navigate Categories will come here</h4>
 			</div>
 			<!--navigation for categories ends-->
 		</div>
